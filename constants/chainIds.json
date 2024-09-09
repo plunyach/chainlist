@@ -58,7 +58,7 @@
   "820": "callisto",
   "888": "wanchain",
   "957": "lyra chain",
-  "973" : "PALM"
+  "973" : "PALM",
   "996": "bifrost",
   "1030": "conflux",
   "1088": "metis",
@@ -97,6 +97,7 @@
   "9001": "evmos",
   "9790": "carbon",
   "10000": "smartbch",
+  "11000": "KBC Chain",
   "13371": "immutable zkevm",
   "15551": "loop",
   "16507": "genesys",
